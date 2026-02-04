@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sharath Kumar
 
 This is my GitHub profile README.
+##
 🎓 BSc Cs Student | 🤖 Robotics & AI Enthusiast  
 🚀 Passionate about building real-world systems
 
@@ -23,11 +24,6 @@ This is my GitHub profile README.
 
 🔹 **Arduino Traffic Light System**  
 - Priority-based control using IR sensors
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ## 📌 About Me
 
