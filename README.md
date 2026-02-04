@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Sharath Kumar
 
 This is my GitHub profile README.
-# Hi 👋, I'm Sharath Kumar
-
 🎓 BSc Cs Student | 🤖 Robotics & AI Enthusiast  
-💻 Java | Python | ROS2 | React  
 🚀 Passionate about building real-world systems
+
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
